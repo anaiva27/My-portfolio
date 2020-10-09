@@ -1,0 +1,33 @@
+body { background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v748-toon-15_1_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=35517e5aaa855b0e78e9339d9fd9994d);
+
+}
+
+.navbar-light a.navbar-brand{ font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;    
+    background-color: #4aaaa5;
+        color: white;
+
+}
+
+.margin { margin-bottom: 110px;
+    margin-top: 50px;
+
+}
+
+
+h1.card-title { font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  color: #4aaaa5;
+}
+
+/* .btn.btn-lg.btn-primary { border-radius: 5px; */
+
+}
+
+footer.background { background-color: #666666;
+    border-top: 4px solid #4aaaa5;
+}
+
+p.color {
+    color: white;
+}
