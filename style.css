@@ -20,14 +20,10 @@ h1.card-title { font-family: 'Times New Roman', Times, serif;
   color: #4aaaa5;
 }
 
-/* .btn.btn-lg.btn-primary { border-radius: 5px; */
+.btn.btn-primary.rounded-0 {background-color: #4aaaa5;
 
 }
 
 footer.background { background-color: #666666;
     border-top: 4px solid #4aaaa5;
-}
-
-p.color {
-    color: white;
 }
