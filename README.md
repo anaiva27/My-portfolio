@@ -9,6 +9,7 @@ responsive images, with valid semantic html, and personalized information.
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Link](#link)
 * [Credits](#credits)
 
 ## Installation
@@ -18,24 +19,24 @@ Meta tags, JavaScript plugins and links to the Bootstrap CSS Framework were adde
 ## Usage
 
 First, to create a responsive light-themed navbar that automatically collapses at the large breakpoint (992px), we used following classes:
-`navbar navbar-expand-lg sticky-top navbar-light bg-light`. It also made the navbar to stick to the top of the page.
-We used Bootstrap grid system such as containers, rows and columns to layout and align content. A flexible and extensible content container Card was used to store a photo gallery, contact form and the headshot with the legend on the landing page. Margins were added to the main container to make sure that it doesnt stick to the navbar or the footer, that is dark-themed, with a blue 4px border on top and fixed at the bottom of the page. Classes used for that: `fixed-bottom mt-auto background`.
-Semantic tags `<nav>,<section>,<main>,<footer>` were utilized to ensure the accessibility of the website. In the contact form, attribute `aria-label` was used to specify that this is a form with 3 fields, and the user can fill it up and submit.
-Media queries, located in a separate style sheet were used to make the headshot photo responsive on the index page.
-To make the portfolio gallery responsive, we used a default responsive, fixed-width container, that has its max-width changes at each breakpoint. On all 3 pages we used a layout with a row to wrap the columns that use predefined grid classes `col-md-8`. We added subrows to the portfolio page with columns `col-lg-6`, where we stored the photographs. 
-Using style sheet Style.css we've adjusted appearence of some buttons, heading, the navbar and the footer.
+`navbar navbar-expand-lg sticky-top navbar-light bg-light`. It also made the navbar to stick to the top of the page.<br>
+We used Bootstrap grid system such as containers, rows and columns to layout and align content. A flexible and extensible content container Card was used to store a photo gallery, contact form and the headshot with the legend on the landing page. Margins were added to the main container to make sure that it doesnt stick to the navbar or the footer, that is dark-themed, with a blue 4px border on top and fixed at the bottom of the page. Classes used for that: `fixed-bottom mt-auto background`.<br>
+Semantic tags `<nav>,<section>,<main>,<footer>` were utilized to ensure the accessibility of the website. In the contact form, attribute `aria-label` was used to specify that this is a form with 3 fields, and the user can fill it up and submit.<br>
+Media queries, located in a separate style sheet were used to make the headshot photo responsive on the index page.<br>
+To make the portfolio gallery responsive, we used a default responsive, fixed-width container, that has its max-width changes at each breakpoint. On all 3 pages we used a layout with a row to wrap the columns that use predefined grid classes `col-md-8`. We added subrows to the portfolio page with columns `col-lg-6`, where we stored the photographs. <br>
+Using style sheet Style.css we've adjusted appearence of some buttons, heading, the navbar and the footer. <br>
 We utilized The W3C Markup Validation Service, to make sure that the website has valid and correct html code. The screenshots are provided below:
 <br><br>
 ![Index page validation](img/2020-10-10-17-58-validator.w3.org.png)
-<br><br>
+<br>
 ![Contact page validation](img/2020-10-10-18-35-validator.w3.org.png)
-<br><br>
+<br>
 ![Portfolio page validation](img/2020-10-10-18-37-validator.w3.org.png)
-<br><br>
+<br>
 
 Screenshots of the pages at the breakpoint 400px:
 
-<br><br>
+<br>
 ![Index page at 400px](img/400-IND.png)
 <br><br>
 ![Contact page at 400px](img/400-CONT.png)
@@ -45,7 +46,7 @@ Screenshots of the pages at the breakpoint 400px:
 
 Screenshots of the pages at the breakpoint 768px:
 
-<br><br>
+<br>
 ![Index page at 768px](img/768-IND.png)
 <br><br>
 ![Contact page at 768px](img/768-CONT.png)
@@ -55,7 +56,7 @@ Screenshots of the pages at the breakpoint 768px:
 
 Screenshots of the pages at the breakpoint 992px:
 
-<br><br>
+<br>
 ![Index page at 992px](img/992-IND.png)
 <br><br>
 ![Contact page at 992px](img/992-CONT.png)
