@@ -9,7 +9,7 @@ responsive images, with valid semantic html, and personalized information.
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Link](#link)
+* [Links](#links)
 * [Credits](#credits)
 
 ## Installation
