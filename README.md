@@ -27,40 +27,52 @@ To make the portfolio gallery responsive, we used a default responsive, fixed-wi
 Using style sheet Style.css we've adjusted appearence of some buttons, heading, the navbar and the footer. <br>
 We utilized The W3C Markup Validation Service, to make sure that the website has valid and correct html code. The screenshots are provided below:
 <br><br>
+
 ![Index page validation](img/2020-10-10-17-58-validator.w3.org.png)
 <br>
+
 ![Contact page validation](img/2020-10-10-18-35-validator.w3.org.png)
 <br>
+
 ![Portfolio page validation](img/2020-10-10-18-37-validator.w3.org.png)
 <br>
 
 Screenshots of the pages at the breakpoint 400px:
 
 <br>
+
 ![Index page at 400px](img/400-IND.png)
 <br><br>
+
 ![Contact page at 400px](img/400-CONT.png)
 <br><br>
+
 ![Portfolio page at 400px](img/400-PORT.png)
 <br><br>
 
 Screenshots of the pages at the breakpoint 768px:
 
 <br>
+
 ![Index page at 768px](img/768-IND.png)
 <br><br>
+
 ![Contact page at 768px](img/768-CONT.png)
 <br><br>
+
 ![Portfolio page at 768px](img/768-PORT.png)
 <br><br>
 
 Screenshots of the pages at the breakpoint 992px:
 
 <br>
+
 ![Index page at 992px](img/992-IND.png)
 <br><br>
+
 ![Contact page at 992px](img/992-CONT.png)
 <br><br>
+
 ![Portfolio page at 992px](img/992-PORT.png)
 <br><br>
 
