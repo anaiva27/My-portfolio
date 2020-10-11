@@ -1,7 +1,9 @@
-body { background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v748-toon-15_1_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=35517e5aaa855b0e78e9339d9fd9994d);
+/* Background */
+body { background-image: url(https://media.istockphoto.com/vectors/pattern-seamless-abstract-background-chevron-gold-color-and-line-vector-id956840842?b=1&k=6&m=956840842&s=612x612&w=0&h=iN2iMN_Or81zuoU9NHjyTFJmy6mp8RoPHOVydo_8eJ8=);
 
 }
 
+/* Text attributes for the navbar */
 .navbar-light a.navbar-brand{ font-family: 'Times New Roman', Times, serif;
     font-size: 25px;    
     background-color: #4aaaa5;
@@ -9,21 +11,53 @@ body { background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_imag
 
 }
 
+/* Margins for the main container */
 .margin { margin-bottom: 110px;
     margin-top: 50px;
 
 }
 
-
+/* header attributes for cards */
 h1.card-title { font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
   color: #4aaaa5;
 }
 
-.btn.btn-primary.rounded-0 {background-color: #4aaaa5;
+/* Style and color for the contact form button */
+.btn.btn-lg.btn-primary.rounded-0 {background-color: #4aaaa5;
+    border-color: #4aaaa5;
 
 }
 
+/* Text color inside footer */
+div.py-2 { color: #393838;
+}
+
+/* Styles for the footer */
 footer.background { background-color: #666666;
     border-top: 4px solid #4aaaa5;
+}
+
+/* Attributes and queries for the headshot pic, index page */
+.img-thumbnail.img-fluid.float-left.mr-3.responsive {
+    width: 250px;
+    height: 250px;
+}
+@media(min-width: 400px) {
+    .img-thumbnail.img-fluid.float-left.mr-3.responsive {
+        width: 150px;
+        height: 150px;
+    }
+}
+@media(min-width: 768px) {
+    .img-thumbnail.img-fluid.float-left.mr-3.responsive {
+    width: 200px;
+    height: 200px;
+}
+}
+@media(min-width: 992px) {
+    .img-thumbnail.img-fluid.float-left.mr-3.responsive {
+        width: 250px;
+        height: 250px;
+    }
 }
