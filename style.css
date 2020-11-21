@@ -8,6 +8,7 @@ body { background-image: url(https://media.istockphoto.com/vectors/pattern-seaml
     font-size: 25px;    
     background-color: #4aaaa5;
         color: white;
+        padding: 3px;
 
 }
 
@@ -22,6 +23,10 @@ h1.card-title { font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
   color: #4aaaa5;
 }
+
+.text-position {
+    text-align: justify;
+ }
 
 /* Style and color for the contact form button */
 .btn.btn-lg.btn-primary.rounded-0 {background-color: #4aaaa5;
