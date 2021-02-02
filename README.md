@@ -2,7 +2,7 @@
 
 ## Description 
 
-Create a responsive portfolio, using Bootstrap CSS Framework and provided screenshots. The website must have a navbar, responsive layout and
+My responsive portfolio created with Bootstrap CSS Framework. The website has a navbar, responsive layout and
 responsive images, with valid semantic html, and personalized information.
 
 ## Table of Contents
@@ -37,44 +37,21 @@ We utilized The W3C Markup Validation Service, to make sure that the website has
 ![Portfolio page validation](img/2020-10-10-18-37-validator.w3.org.png)
 <br>
 
-Screenshots of the pages at the breakpoint 400px:
+Screenshot of the landing page:
 
 <br>
 
 ![Index page at 400px](img/400-IND.png)
 <br><br>
 
-![Contact page at 400px](img/400-CONT.png)
-<br><br>
 
-![Portfolio page at 400px](img/400-PORT.png)
-<br><br>
-
-Screenshots of the pages at the breakpoint 768px:
+Screenshot of the portfolio page:
 
 <br>
 
 ![Index page at 768px](img/768-IND.png)
 <br><br>
 
-![Contact page at 768px](img/768-CONT.png)
-<br><br>
-
-![Portfolio page at 768px](img/768-PORT.png)
-<br><br>
-
-Screenshots of the pages at the breakpoint 992px:
-
-<br>
-
-![Index page at 992px](img/992-IND.png)
-<br><br>
-
-![Contact page at 992px](img/992-CONT.png)
-<br><br>
-
-![Portfolio page at 992px](img/992-PORT.png)
-<br><br>
 
 ## Links
 
